@@ -1,2 +1,5 @@
 #!usr/bin/python3
-print("Hello king kofi")
+def main(msg):
+    print(msg)
+
+main("Hello Ithazad")
